@@ -1,7 +1,6 @@
 {
   "predeploy": "npm run build",
-  "homepage": "https://github.com/ElkhatimiYoussef/prtfolio",
-
+  "homepage": "https://ElkhatimiYoussef.github.io/prtfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

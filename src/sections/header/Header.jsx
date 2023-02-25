@@ -16,7 +16,7 @@ const Header = () => {
         <div className="header__profile" data-aos="flip-up">
           <img src={HeaderImage} alt="Header Portait" />
         </div>
-        <h3 data-aos="flip-up">Youssef Elkhatimi</h3>
+        <h3 data-aos="flip-up">Youssef</h3>
         <p className="polo" data-aos="flip-up">
           je suis un étudiant en développement web passionné par la création des
           web application et la programmation. je possède une solide

@@ -56,6 +56,11 @@
     margin-bottom: 0.8rem;
 }
 
+.about__right h2 {
+    margin-bottom: 0.8rem;
+    margin-top: 30px;
+}
+
 
 .about__right .btn {
     margin-top: 2.5rem;

@@ -16,8 +16,8 @@ const Header = () => {
         <div className="header__profile" data-aos="fade-in">
           <img src={HeaderImage} alt="Header Portait" />
         </div>
-        <h3 data-aos="flip-up">Youssef Kh</h3>
-        <p className="polo" data-aos="flip-up">
+        <h3 data-aos="flip-up">Youssef Polo</h3>
+        <p className="polo" data-aos="fade-in">
           je suis un étudiant en développement web passionné par la création des
           web application et la programmation. je possède une solide
           connaissance des langages de base tels que HTML, CSS et JavaScript,

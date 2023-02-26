@@ -16,7 +16,7 @@ const FAQs = () => {
       <p className='polo'>
       Here are some questions I usually get. if you still have some more questions, shoot me a message from the contact section!
       </p>
-      <div className="container faqs__container" data-aos="flip-up">
+      <div className="container faqs__container" data-aos="fade-in">
         {
           faqs.map(faq => (
             <FAQ key={faq.id} faq={faq}/>

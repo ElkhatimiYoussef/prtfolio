@@ -26,7 +26,7 @@ const Header = () => {
           tels que Bootstrap, NodeJs, Springboot et ReactJs pour améliorer mes
           expérience
         </p>
-        <div className="header__cta"  data-aos="flip-up">
+        <div className="header__cta" data-aos="fade-in">
           <a href="#contact" className="btn primary">
             Let's Talk
           </a>

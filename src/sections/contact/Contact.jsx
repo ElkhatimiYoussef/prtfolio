@@ -8,7 +8,7 @@ const Contact = () => {
       <p className='polo'>
         Shoot me a message via any of the links below!
       </p>
-      <div className="container contact__container" data-aos="flip-up">
+      <div className="container contact__container" data-aos="fade-in">
         {
           contacts.map(contact => <a key={contact.id} href={contact.link} target="_blank" rel="noopener noreferrer">{contact.icon}</a>)
         }

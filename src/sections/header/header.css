@@ -73,6 +73,7 @@ header {
 /* MEDIA QUERIES (tablets) */
 @media screen and (max-width: 600px) {
     .header__profile {
+        margin-top: 100px;
         width: 14rem;
         height: 17rem;
         max-width: 60%;

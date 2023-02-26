@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <header id="header">
       <div className="container header__container">
-        <div className="header__profile" data-aos="flip-up">
+        <div className="header__profile" data-aos="fade-in">
           <img src={HeaderImage} alt="Header Portait" />
         </div>
         <h3 data-aos="flip-up">Youssef Kh</h3>

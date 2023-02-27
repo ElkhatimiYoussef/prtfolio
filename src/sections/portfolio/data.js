@@ -10,8 +10,8 @@ const data = [
  
     {
         id: 2,
-        category: 'Django',
-        image: Image1,
+        category: 'MERN',
+        image: Image3,
         title: "Project Title Two (fullstack)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: '#',
@@ -20,7 +20,7 @@ const data = [
     {
         id: 3,
         category: 'Django',
-        image: Image2,
+        image: Image1,
         title: "Project Title Three (fullstack)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: '#',
@@ -31,7 +31,7 @@ const data = [
     {
         id: 6,
         category: 'MERN',
-        image: Image3,
+        image: Image4,
         title: "Project Title Six (fullstack)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: '#',
@@ -39,8 +39,8 @@ const data = [
     },
     {
         id: 7,
-        category: 'MERN',
-        image: Image4,
+        category: 'Django',
+        image: Image2,
         title: "Project Title Seven (fullstack)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: '#',

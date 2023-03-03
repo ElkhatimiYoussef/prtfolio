@@ -29,7 +29,7 @@ const About = () => {
                 </div>
                 <p className='polo'>
                 je suis un étudiant en développement web passionné 
-            par la création des web application et la programmation. 
+            par la création des applications web et la programmation. 
             je possède une solide connaissance des langages de base tels 
             que HTML, CSS et JavaScript, ainsi que des compétences en 
             programmation backend tels que Php, Python, ou Java. 

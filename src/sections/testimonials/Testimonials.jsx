@@ -19,9 +19,7 @@ const Testimonials = () => {
   return (
     <section id="testimonials">
       <h2>CODING SKILLS</h2>
-      <p>
-        These are unbiased testmonials from some of my clients
-      </p>
+      <p></p>
       <div className="container">
       <Swiper
         slidesPerView={1}

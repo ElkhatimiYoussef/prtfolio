@@ -18,7 +18,7 @@ const Header = () => {
         </div>
         <h3 data-aos="flip-up">Youssef Elkhatimi</h3>
         <p className="polo" data-aos="fade-in">
-          Futur ingénieur en 3ème année - Ingénierie informatique et réseaux
+          Futur ingénieur en 4ème année - Ingénierie informatique et réseaux
           Option :Méthodes Informatiques Appliquées à la Gestion d'Entreprise <big>À
           la recherche d'un stage PFA d'une durée de 3 mois dans un services de
           développement web</big>

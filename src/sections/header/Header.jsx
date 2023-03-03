@@ -16,15 +16,12 @@ const Header = () => {
         <div className="header__profile" data-aos="fade-in">
           <img src={HeaderImage} alt="Header Portait" />
         </div>
-        <h3 data-aos="flip-up">Youssef Polo</h3>
+        <h3 data-aos="flip-up">Youssef Elkhatimi</h3>
         <p className="polo" data-aos="fade-in">
-          je suis un étudiant en développement web passionné par la création des
-          web application et la programmation. je possède une solide
-          connaissance des langages de base tels que HTML, CSS et JavaScript,
-          ainsi que des compétences en programmation backend tels que Php,
-          Python, ou Java. je suis également capable d'utiliser des frameworks
-          tels que Bootstrap, NodeJs, Springboot et ReactJs pour améliorer mes
-          expérience
+          Futur ingénieur en 3ème année - Ingénierie informatique et réseaux
+          Option :Méthodes Informatiques Appliquées à la Gestion d'Entreprise <big>À
+          la recherche d'un stage PFA d'une durée de 3 mois dans un services de
+          développement web</big>
         </p>
         <div className="header__cta" data-aos="fade-in">
           <a href="#contact" className="btn primary">

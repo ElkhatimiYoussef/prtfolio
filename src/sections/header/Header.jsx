@@ -16,7 +16,7 @@ const Header = () => {
         <div className="header__profile" data-aos="fade-in">
           <img src={HeaderImage} alt="Header Portait" />
         </div>
-        <h3 data-aos="flip-up">Youssef Elkhatimii</h3>
+        <h3 data-aos="flip-up">Youssef Elkhatimii JSHSGSH </h3>
         <p className="polo" data-aos="fade-in">
           Futur ingénieur en 4ème année - Ingénierie informatique et réseaux
           Option :Méthodes Informatiques Appliquées à la Gestion d'Entreprise <big>À

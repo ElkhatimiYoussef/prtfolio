@@ -26,6 +26,20 @@
 
 
 
+
+.iscobar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 60px;
+    height: 0vh; /* Cela assure que l'élément est centré verticalement sur toute la hauteur de la vue (viewport) */
+}
+
+
+
+
+
+
 /* MEDIA QUERIES (phones) */
 @media screen and (max-width: 600px) {
     .contact__container {

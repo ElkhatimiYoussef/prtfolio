@@ -1,5 +1,7 @@
 import contacts from './data'
 import './contact.css'
+import CV from '../../assets/cv.pdf'
+import {HiDownload} from 'react-icons/hi'
 
 const Contact = () => {
   return (
@@ -13,6 +15,15 @@ const Contact = () => {
           contacts.map(contact => <a key={contact.id} href={contact.link} target="_blank" rel="noopener noreferrer">{contact.icon}</a>)
         }
       </div>
+
+
+
+
+      <div className='iscobar'>
+          <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
+      </div>
+
+
     </section>
   )
 }

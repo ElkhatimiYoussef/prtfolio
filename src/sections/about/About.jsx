@@ -1,6 +1,4 @@
 import AboutImage from '../../assets/youssef.jpg'
-import CV from '../../assets/cv.pdf'
-import {HiDownload} from 'react-icons/hi'
 import data from './data'
 import Card from '../../components/Card'
 import './about.css'
@@ -37,7 +35,6 @@ const About = () => {
             Bootstrap, NodeJs, Springboot et ReactJs pour améliorer mes expérience
                 </p>
                 
-                <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
             </div>
         </div>
     </section>

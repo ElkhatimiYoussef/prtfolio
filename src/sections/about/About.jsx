@@ -26,13 +26,13 @@ const About = () => {
                     }
                 </div>
                 <p className='polo'>
-                "Mon intérêt se porte sur le développement web 
+                Mon intérêt se porte sur le développement web 
                 et la création d'applications. Je possède une solide maîtrise 
                 des langages de base tels qu'HTML, CSS et JavaScript, ainsi que 
-                des compétences en programmation backend avec des langages comme PHP, 
-                Python et Java. J'utilise également des frameworks comme Bootstrap, Node.js, 
-                Spring Boot et React.js pour améliorer mes compétences. Récemment, j'ai élargi 
-                mes connaissances en incorporant des technologies telles que Spring, React.js et Angular."
+                des compétences en programmation backend avec des langages comme Java , 
+                Python et Php. J'utilise également des frameworks comme Spring Boot, Node.js, 
+                React.js et Bootstrap pour améliorer mes compétences. Récemment, j'ai élargi 
+                mes connaissances en incorporant des technologies telles que Spring, React.js et Angular 
                 </p>
                 
             </div>

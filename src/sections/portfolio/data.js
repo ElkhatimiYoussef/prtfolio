@@ -56,6 +56,7 @@ const data = [
         image: Image4,
         title: "FULLSTACK",
         desc: "Cette application de gestion d'albums offre aux artistes une plateforme professionnelle pour vendre leur musique, maximiser les ventes et atteindre un public large. Elle garantit une expérience client sécurisée grâce à MongoDB, Express, React et Node.js.",
+        demo: '#',
         github: 'https://github.com/ElkhatimiYoussef'
     },
     {

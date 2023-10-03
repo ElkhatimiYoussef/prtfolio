@@ -7,7 +7,9 @@ const Project = ({project}) => {
         <div className="portfolio__project-image">
             <img src={project.image} alt="Portfolio Project Image" />
         </div>
-        <h4>{project.title}</h4>
+        <h4 style={{ textAlign: 'center' }}>
+             {project.title}
+        </h4>
         <p>{project.desc}</p>
         <div className="portfolio__project-cta">
             <a href={project.demo} className="btn sm" target="_blank" rel="noopner noreferrer">Demo</a>

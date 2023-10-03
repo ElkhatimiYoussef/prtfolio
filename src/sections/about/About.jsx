@@ -26,13 +26,13 @@ const About = () => {
                     }
                 </div>
                 <p className='polo'>
-                je suis un étudiant en développement web passionné 
-            par la création des applications web et la programmation. 
-            je possède une solide connaissance des langages de base tels 
-            que HTML, CSS et JavaScript, ainsi que des compétences en 
-            programmation backend tels que Php, Python, ou Java. 
-            je suis également capable d'utiliser des frameworks tels que 
-            Bootstrap, NodeJs, Springboot et ReactJs pour améliorer mes expérience
+                "Mon intérêt se porte sur le développement web 
+                et la création d'applications. Je possède une solide maîtrise 
+                des langages de base tels qu'HTML, CSS et JavaScript, ainsi que 
+                des compétences en programmation backend avec des langages comme PHP, 
+                Python et Java. J'utilise également des frameworks comme Bootstrap, Node.js, 
+                Spring Boot et React.js pour améliorer mes compétences. Récemment, j'ai élargi 
+                mes connaissances en incorporant des technologies telles que Spring, React.js et Angular."
                 </p>
                 
             </div>
